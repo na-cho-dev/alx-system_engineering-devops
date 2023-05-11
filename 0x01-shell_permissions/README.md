@@ -61,6 +61,7 @@ Write a script that sets the mode of the file hello to this:
 - The file hello will be in the working directory
 - You are not allowed to use commas for this script
 ```
+> Note: the mode of olleh will not always be 664. Make sure your script works for any mode.
 
 #### Task  10. Look in the mirror
 Write a script that sets the mode of the file hello the same as olleh’s mode.
@@ -87,10 +88,25 @@ Write a script that changes the group owner to school for the file hello
 - The file hello will be in the working directory
 ```
 
-#### Task
+#### Task 14. Owner and group
+Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
-#### Task                                                     
+#### Task 15. Symbolic links
+Write a script that changes the owner and the group owner of hello to vincent and staff respectively.
 
-#### Task
+```
+- The file _hello is in the working directory
+- The file _hello is a symbolic link
+```
 
-#### Task
+#### Task 16. If only
+Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
+
+```
+- The file hello will be in the working directory
+```
+
+#### Task 17. Star Wars
+Write a script that will play the StarWars IV episode in the terminal.
+
+The end...
