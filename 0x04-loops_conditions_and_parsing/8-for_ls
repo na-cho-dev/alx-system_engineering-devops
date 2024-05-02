@@ -4,8 +4,8 @@
 # In a list format
 # Where only the part of the name after the first dash is displayed (refer to the example)
 
-lists="$(ls)"
+lists="$(ls .)"
 
 for list in $lists; do
-    echo "$list"
+    echo "$list" | cut -d '-' -f2
 done
