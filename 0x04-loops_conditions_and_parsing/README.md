@@ -27,6 +27,7 @@ Shellcheck is available on the school’s computers. If you want to use it on yo
 Examples:
 
 Not passing Shellcheck:
+
 ![Img](https://github.com/Nacho369/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/img/Vxotqyj.png)
 
 Passing Shellcheck:
