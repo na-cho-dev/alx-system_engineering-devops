@@ -27,7 +27,7 @@ Shellcheck is available on the school’s computers. If you want to use it on yo
 Examples:
 
 Not passing Shellcheck:
-![Img]()
+![Img](https://github.com/Nacho369/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/img/Vxotqyj.png)
 
 Passing Shellcheck:
 
@@ -40,6 +40,7 @@ For every feedback, Shellcheck will provide a code that you can use to get more 
 Read for this task:
 
 [Linux and Mac OS users](https://intranet.alxswe.com/rltoken/Cy1plV2eR3VphjPqliXB8A)
+
 [Windows users](https://intranet.alxswe.com/rltoken/074M_gTsD34x3Q6MX55PDw)
 
 man: ssh-keygen
