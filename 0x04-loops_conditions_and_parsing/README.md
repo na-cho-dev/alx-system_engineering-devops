@@ -28,10 +28,11 @@ Examples:
 
 Not passing Shellcheck:
 
-![Img](https://github.com/Nacho369/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/img/Vxotqyj.png)
+![Check Not Pass](https://github.com/Nacho369/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/img/Vxotqyj.png)
 
 Passing Shellcheck:
 
+![Check Pass](https://github.com/Nacho369/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/img/ubHWxDU.png)
 
 For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code SC2034, you can browse https://github.com/koalaman/shellcheck/wiki/SC2034.
 
