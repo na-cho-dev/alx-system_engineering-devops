@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Bash script that displays Best School 10 times.
 
-var=1
-while [ $var -le 10 ]; do
+i=0
+until [ $i -ge 10 ]; do
     echo "Best School"
-    ((var++))
+    ((i++))
 done
