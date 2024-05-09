@@ -39,7 +39,7 @@ It is organized from the lowest level to the highest level:
 
 Keep in mind that the OSI model is a concept, it’s not even tangible. The OSI model doesn’t perform any functions in the networking process. It is a conceptual framework so we can better understand complex interactions that are happening. Most of the functionality in the OSI model exists in all communications systems.
 
-![Img]()
+![Img](https://github.com/Nacho369/alx-system_engineering-devops/blob/master/0x07-networking_basics/Img/task0.png)
 
 In this project we will mainly focus on:
 
@@ -63,7 +63,7 @@ How is the OSI model organized?
 - Randomly
 
 ### 1. Types of network
-![Img]()
+![Img](https://github.com/Nacho369/alx-system_engineering-devops/blob/master/0x07-networking_basics/Img/task1.jpg)
 
 LAN connect local devices together, WAN connects LANs together, and WANs are operating over the Internet.
 
@@ -88,7 +88,7 @@ What network do you use when you browse www.google.com from your smartphone (not
 - LAN
 
 ### 2. MAC and IP address
-![Img]()
+![Img](https://github.com/Nacho369/alx-system_engineering-devops/blob/master/0x07-networking_basics/Img/task2.jpg)
 
 Questions:
 
@@ -105,7 +105,7 @@ What is an IP address?
 - Is a number that network devices use to connect to networks
 
 ### 3. UDP and TCP
-![Img]()
+![Img](https://github.com/Nacho369/alx-system_engineering-devops/blob/master/0x07-networking_basics/Img/task3.jpg)
 
 Let’s fill the empty parts in the drawing above.
 
