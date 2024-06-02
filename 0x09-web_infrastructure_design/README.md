@@ -29,6 +29,5 @@ On a whiteboard, design a three server web infrastructure that hosts the website
 On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com, it must be secured, serve encrypted traffic, and be monitored.
 
 ### 3. Scale up
-#advanced
 Readme
 - [Application server vs web server](https://intranet.alxswe.com/rltoken/lvTwy7Ix9PsB-R5pzIOm9w)
